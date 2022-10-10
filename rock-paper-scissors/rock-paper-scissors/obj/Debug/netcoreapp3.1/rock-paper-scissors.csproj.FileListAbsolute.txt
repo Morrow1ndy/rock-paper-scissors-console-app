@@ -1,0 +1,14 @@
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.exe
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.deps.json
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.runtimeconfig.json
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.runtimeconfig.dev.json
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.dll
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\bin\Debug\netcoreapp3.1\rock-paper-scissors.pdb
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.csproj.AssemblyReference.cache
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.AssemblyInfoInputs.cache
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.AssemblyInfo.cs
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.dll
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.pdb
+C:\Users\Milo\source\repos\rock-paper-scissors\rock-paper-scissors\obj\Debug\netcoreapp3.1\rock-paper-scissors.genruntimeconfig.cache
